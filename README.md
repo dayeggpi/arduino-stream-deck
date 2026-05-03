@@ -1,5 +1,5 @@
-# stream-deck-keybinding
-Arduino code to run on stream deck with key bindings in settings.ini on PC for mroe flexibility
+# arduino-stream-deck
+Arduino code for DIY stream deck keyboard with pagination, local mapping (on PC), and multiple keystrokes support
 
 <img width="800" alt="image" src="https://raw.githubusercontent.com/dayeggpi/stream-deck-keybinding/refs/heads/main/streamdeck.jpg"/>
 
